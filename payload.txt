@@ -5,3 +5,4 @@ live A-7 proof, AC1 run at 2026-08-24T11:06:38Z
 live A-7 AC1 proof (all-members run) at 2026-08-24T11:09:19Z
 live A-7 E2E proof run 20260824-112127 at 2026-08-24T11:21:27Z
 live A-7 E2E proof (AC1, fresh workspace, cascade-fix retest) run 20260824-113042 at 2026-08-24T11:30:42Z
+rev2 probe 1787574509
