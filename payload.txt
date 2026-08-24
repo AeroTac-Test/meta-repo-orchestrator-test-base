@@ -2,3 +2,4 @@ content of base, revision 1
 live A-7 proof at 2026-08-24T09:24:51Z
 revision from live E2E run 20260824-110209
 live A-7 proof, AC1 run at 2026-08-24T11:06:38Z
+live A-7 AC1 proof (all-members run) at 2026-08-24T11:09:19Z
